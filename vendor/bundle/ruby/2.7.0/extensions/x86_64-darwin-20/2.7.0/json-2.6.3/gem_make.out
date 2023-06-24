@@ -1,0 +1,16 @@
+current directory: /Users/applepc/Documents/GitHub/untitled folder/SteakRecognition/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+/Users/applepc/.rvm/rubies/ruby-2.7.5/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/applepc/Documents/GitHub/untitled folder/SteakRecognition/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230623-38229-q0rwz2 sitelibdir\=./.gem.20230623-38229-q0rwz2 clean
+
+current directory: /Users/applepc/Documents/GitHub/untitled folder/SteakRecognition/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230623-38229-q0rwz2 sitelibdir\=./.gem.20230623-38229-q0rwz2
+make: Nothing to be done for `all'.
+
+current directory: /Users/applepc/Documents/GitHub/untitled folder/SteakRecognition/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230623-38229-q0rwz2 sitelibdir\=./.gem.20230623-38229-q0rwz2 install
+
+current directory: /Users/applepc/Documents/GitHub/untitled folder/SteakRecognition/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230623-38229-q0rwz2 sitelibdir\=./.gem.20230623-38229-q0rwz2 clean
